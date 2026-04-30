@@ -1,4 +1,3 @@
 venv/
-predictions/
 pycache/
 *.pyc
